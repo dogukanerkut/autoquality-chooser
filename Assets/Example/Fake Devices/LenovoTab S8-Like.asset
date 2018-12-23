@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28ee57d6457922f4088bb5b3d3a742c7, type: 3}
+  m_Name: LenovoTab S8-Like
+  m_EditorClassIdentifier: 
+  DeviceInfo:
+    model: Lenovo Tab S8
+    manufacturer: Lenovo
+    device: 
+    ram: 1024
+    cpu: Intel Atom Z3745
+    cpuArchitecture: 
+    gfx_name: Intel Gen 7 (Ivy Bridge)
+    gfx_vendor: Intel
+    cpu_count: 0
+    dpi: 0
+    screen: 1920 x 1200
+    platform_id: 0
+    os_ver: Android OS 4.4.2 / API-19
+    gfx_shader: 0
+    gfx_ver: 
+    max_texture_size: 0

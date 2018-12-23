@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96a1822a0312cbc41879067170c2f30f, type: 3}
+  m_Name: FakeDeviceQualityTester
+  m_EditorClassIdentifier: 
+  QualitySettingsToBeTested: {fileID: 11400000, guid: 6990b3ff0d205e844bbacbf9cbae47b4,
+    type: 2}
+  FakeDeviceInfos:
+  - {fileID: 11400000, guid: 60b58aa8cb2ad8f4abbcf87fc77f99f1, type: 2}
+  - {fileID: 11400000, guid: 34271129739eb1e43826f82687c05e0e, type: 2}
+  - {fileID: 11400000, guid: a044ee6d3e3ee91488c274479e6c7284, type: 2}
+  - {fileID: 11400000, guid: f7c641e2a897eec41b9eff4c9148922d, type: 2}

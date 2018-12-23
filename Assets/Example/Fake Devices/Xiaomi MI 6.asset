@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28ee57d6457922f4088bb5b3d3a742c7, type: 3}
+  m_Name: Xiaomi MI 6
+  m_EditorClassIdentifier: 
+  DeviceInfo:
+    model: MI 6
+    manufacturer: Xiaomi
+    device: sagit
+    ram: 3726
+    cpu: ARMv7 VFPv3 NEON
+    cpuArchitecture: armv8l
+    gfx_name: Adreno (TM) 540
+    gfx_vendor: Qualcomm
+    cpu_count: 8
+    dpi: 480
+    screen: 1920 x 1080
+    platform_id: 11
+    os_ver: Android OS 8.0.0 / API-26 (OPR1.170623.027/V10.0.1.0.OCAMIFH)
+    gfx_shader: 50
+    gfx_ver: OpenGL ES 3.2 V@269.0 (GIT@9c9b012, I92eb381bc9) (Date:12/31/17)
+    max_texture_size: 16384

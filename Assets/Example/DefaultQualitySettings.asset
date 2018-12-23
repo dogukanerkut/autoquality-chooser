@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f75c01f39255ebf4ab1575167f0d6c96, type: 3}
+  m_Name: DefaultQualitySettings
+  m_EditorClassIdentifier: 
+  DefaultQuality: 3
+  QualityData:
+  - Foldout: 0
+    Quality: 5
+    QualityProperties:
+    - DeviceParameter: 5
+      Argument:
+      - FirstValue: Adreno (TM) 540
+        SecondValue: 
+      - FirstValue: Adreno (TM) 530
+        SecondValue: 
+      - FirstValue: Mali-G72
+        SecondValue: 
+  - Foldout: 1
+    Quality: 4
+    QualityProperties:
+    - DeviceParameter: 1
+      Argument:
+      - FirstValue: 4096
+        SecondValue: 256000
+  - Foldout: 0
+    Quality: 3
+    QualityProperties:
+    - DeviceParameter: 4
+      Argument:
+      - FirstValue: 4
+        SecondValue: 8
+    - DeviceParameter: 1
+      Argument:
+      - FirstValue: 2048
+        SecondValue: 4096
+  - Foldout: 1
+    Quality: 2
+    QualityProperties:
+    - DeviceParameter: 10
+      Argument:
+      - FirstValue: 200
+        SecondValue: 300
+    - DeviceParameter: 11
+      Argument:
+      - FirstValue: API-22
+        SecondValue: 
+      - FirstValue: API-21
+        SecondValue: 
+      - FirstValue: API-20
+        SecondValue: 
+      - FirstValue: API-19
+        SecondValue: 
+  - Foldout: 0
+    Quality: 1
+    QualityProperties:
+    - DeviceParameter: 1
+      Argument:
+      - FirstValue: 1024
+        SecondValue: 2048
+  - Foldout: 0
+    Quality: 0
+    QualityProperties:
+    - DeviceParameter: 1
+      Argument:
+      - FirstValue: 0
+        SecondValue: 1024
