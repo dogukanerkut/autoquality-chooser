@@ -3,7 +3,7 @@ using System.Collections.Generic;
 namespace AutoQualityChooser
 {
 
-    [CreateAssetMenu(menuName = "FakeDeviceTester/FakeDeviceQualityTester")]
+    [CreateAssetMenu(menuName = "AutoQualityChooser/FakeDeviceTester/FakeDeviceQualityTester")]
     public class FakeDeviceQualityTester : ScriptableObject
     {
         public TargetQualitySettings QualitySettingsToBeTested;
