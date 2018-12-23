@@ -33,7 +33,7 @@ namespace AutoQualityChooser
 
                     _results.Append(string.Format("• {0}({1}) <b>{2}{3}</color></b>\n", _fakeDeviceQualityTester.FakeDeviceInfos[i].name, _fakeDeviceQualityTester.FakeDeviceInfos[i].DeviceInfo.model, GetColorCodeForQuality(selectedQuality), selectedQuality.ToString()));
                 }
-                _results.Append("\nYou can also see the logs for details.");
+                _results.Append("\nYou can also see the logs for details. You can add \"AutoQualityLogger\" scripting define symbol to see the logs(in case you don't see them). You can remove it if you don't like to add logs to your build");
             }
 
             if (_results != null && _results.Length > 0)
