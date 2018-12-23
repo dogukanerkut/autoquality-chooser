@@ -4,17 +4,29 @@ This tool automatically takes device information and assigns a quality level tha
 ## How to Use
 You can define quality settings and add device parameters and include arguments so system can detect and select one when running on a device. Currently, system reorganizes quality data from best(Ultra) to worst(Very Low) and crosschecks the device information starting from Ultra. You can select and add device parameters and arguments as many as you like, current parameters are:
 • Model
+
 • Ram
+
 • CPU
+
 • CPU architecture
+
 • CPU count
+
 • GFX name
+
 • GFX vendor
+
 • GFX shader
+
 • GFX version
+
 • Screen resolution
+
 • DPI
+
 • OS version
+
 ![](qualitysettingswindow.PNG)
 
 After you define your quality settings, press save. Then you can attach this scriptable object to one of your scripts that starts on initialization, and call:
